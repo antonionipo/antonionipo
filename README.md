@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data analysis for populism in presidential speeches](https://github.com/antonionipo/Data-analysis-for-populism-in-presidential-speeches)
 
-- 🌱 I’m currently learning **PySpark, NLP**
+- 🌱 I’m currently learning **PySpark, Tensor Flow, NLP**
 
 - 💻 A little about me **Electrical Engineer from Poli-UPE specialized in Data Science**
 
